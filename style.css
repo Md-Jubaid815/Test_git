@@ -1,0 +1,20 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-image: url(Ai.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+
+h1{
+  color: rgb(0, 0, 0);
+  mix-blend-mode: color-burn;
+  font-size: xx-large;
+}
